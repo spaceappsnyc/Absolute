@@ -1,0 +1,23 @@
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkOrange\DarkOrange UI\DarkOrange UI\bin\Debug\DarkOrange UI.exe
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkOrange\DarkOrange UI\DarkOrange UI\bin\Debug\DarkOrange UI.pdb
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkOrange\DarkOrange UI\DarkOrange UI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkOrange\DarkOrange UI\DarkOrange UI\obj\x86\Debug\MainWindow.baml
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkOrange\DarkOrange UI\DarkOrange UI\obj\x86\Debug\Page1.baml
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkOrange\DarkOrange UI\DarkOrange UI\obj\x86\Debug\Page2.baml
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkOrange\DarkOrange UI\DarkOrange UI\obj\x86\Debug\Themes\Brushes.baml
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkOrange\DarkOrange UI\DarkOrange UI\obj\x86\Debug\Themes\Core.baml
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkOrange\DarkOrange UI\DarkOrange UI\obj\x86\Debug\Themes\Icons.baml
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkOrange\DarkOrange UI\DarkOrange UI\obj\x86\Debug\App.baml
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkOrange\DarkOrange UI\DarkOrange UI\obj\x86\Debug\MainWindow.g.cs
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkOrange\DarkOrange UI\DarkOrange UI\obj\x86\Debug\Page1.g.cs
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkOrange\DarkOrange UI\DarkOrange UI\obj\x86\Debug\Page2.g.cs
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkOrange\DarkOrange UI\DarkOrange UI\obj\x86\Debug\App.g.cs
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkOrange\DarkOrange UI\DarkOrange UI\obj\x86\Debug\DarkOrange UI_MarkupCompile.cache
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkOrange\DarkOrange UI\DarkOrange UI\obj\x86\Debug\DarkOrange UI.g.resources
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkOrange\DarkOrange UI\DarkOrange UI\obj\x86\Debug\DarkOrange_UI.Properties.Resources.resources
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkOrange\DarkOrange UI\DarkOrange UI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkOrange\DarkOrange UI\DarkOrange UI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkOrange\DarkOrange UI\DarkOrange UI\obj\x86\Debug\DarkOrange UI.exe
+C:\LimePlayer\Themes Project\Test\ALL Themes\10\DarkOrange\DarkOrange UI\DarkOrange UI\obj\x86\Debug\DarkOrange UI.pdb
+C:\Users\peace\Documents\Visual Studio 2015\Projects\RIT-language\RIT-language\bin\Debug\DarkOrange UI\DarkOrange UI\obj\x86\Debug\DarkOrange UI.exe
+C:\Users\peace\Documents\Visual Studio 2015\Projects\RIT-language\RIT-language\bin\Debug\DarkOrange UI\DarkOrange UI\obj\x86\Debug\DarkOrange UI.pdb

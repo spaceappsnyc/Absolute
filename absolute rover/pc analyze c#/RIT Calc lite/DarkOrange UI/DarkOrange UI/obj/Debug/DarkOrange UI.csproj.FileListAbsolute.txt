@@ -1,0 +1,96 @@
+C:\Users\peace\Documents\Visual Studio 2015\Projects\RIT-language\RIT-language\bin\Debug\DarkOrange UI\DarkOrange UI\obj\Debug\Themes\Brushes.baml
+C:\Users\peace\Documents\Visual Studio 2015\Projects\RIT-language\RIT-language\bin\Debug\DarkOrange UI\DarkOrange UI\obj\Debug\Themes\Core.baml
+C:\Users\peace\Documents\Visual Studio 2015\Projects\RIT-language\RIT-language\bin\Debug\DarkOrange UI\DarkOrange UI\obj\Debug\Themes\Icons.baml
+C:\Users\peace\Documents\Visual Studio 2015\Projects\RIT-language\RIT-language\bin\Debug\DarkOrange UI\DarkOrange UI\obj\Debug\App.baml
+C:\Users\peace\Documents\Visual Studio 2015\Projects\RIT-language\RIT-language\bin\Debug\DarkOrange UI\DarkOrange UI\obj\Debug\Main.g.cs
+C:\Users\peace\Documents\Visual Studio 2015\Projects\RIT-language\RIT-language\bin\Debug\DarkOrange UI\DarkOrange UI\obj\Debug\App.g.cs
+C:\Users\peace\Documents\Visual Studio 2015\Projects\RIT-language\RIT-language\bin\Debug\DarkOrange UI\DarkOrange UI\obj\Debug\Main.baml
+C:\Users\peace\Documents\Visual Studio 2015\Projects\RIT-language\RIT-language\bin\Debug\DarkOrange UI\DarkOrange UI\obj\Debug\DarkOrange_UI.Properties.Resources.resources
+C:\Users\peace\Documents\Visual Studio 2015\Projects\RIT-language\RIT-language\bin\Debug\DarkOrange UI\DarkOrange UI\obj\Debug\DarkOrange UI.csproj.GenerateResource.Cache
+C:\Users\peace\Documents\Visual Studio 2015\Projects\RIT-language\RIT-language\bin\Debug\DarkOrange UI\DarkOrange UI\obj\Debug\DarkOrange UI.csprojResolveAssemblyReference.cache
+C:\Users\peace\Documents\Visual Studio 2015\Projects\RIT-language\RIT-language\bin\Debug\DarkOrange UI\DarkOrange UI\bin\Debug\RIT Language.exe.config
+C:\Users\peace\Documents\Visual Studio 2015\Projects\RIT-language\RIT-language\bin\Debug\DarkOrange UI\DarkOrange UI\bin\Debug\RIT Language.exe
+C:\Users\peace\Documents\Visual Studio 2015\Projects\RIT-language\RIT-language\bin\Debug\DarkOrange UI\DarkOrange UI\bin\Debug\RIT Language.pdb
+C:\Users\peace\Documents\Visual Studio 2015\Projects\RIT-language\RIT-language\bin\Debug\DarkOrange UI\DarkOrange UI\obj\Debug\RIT Language_MarkupCompile.cache
+C:\Users\peace\Documents\Visual Studio 2015\Projects\RIT-language\RIT-language\bin\Debug\DarkOrange UI\DarkOrange UI\obj\Debug\RIT Language_MarkupCompile.lref
+C:\Users\peace\Documents\Visual Studio 2015\Projects\RIT-language\RIT-language\bin\Debug\DarkOrange UI\DarkOrange UI\obj\Debug\RIT Language.g.resources
+C:\Users\peace\Documents\Visual Studio 2015\Projects\RIT-language\RIT-language\bin\Debug\DarkOrange UI\DarkOrange UI\obj\Debug\RIT Language.exe
+C:\Users\peace\Documents\Visual Studio 2015\Projects\RIT-language\RIT-language\bin\Debug\DarkOrange UI\DarkOrange UI\obj\Debug\RIT Language.pdb
+C:\Users\peace\Documents\Visual Studio 2015\Projects\RIT-language\RIT-language\bin\Debug\DarkOrange UI\DarkOrange UI\bin\Debug\NAudio.dll
+C:\Users\peace\Documents\Visual Studio 2015\Projects\RIT-language\RIT-language\bin\Debug\DarkOrange UI\DarkOrange UI\bin\Debug\NAudio.xml
+C:\rit-l\морзе\DarkOrange UI\DarkOrange UI\obj\Debug\DarkOrange UI.csprojResolveAssemblyReference.cache
+C:\rit-l\морзе\DarkOrange UI\DarkOrange UI\obj\Debug\Themes\Brushes.baml
+C:\rit-l\морзе\DarkOrange UI\DarkOrange UI\obj\Debug\Themes\Core.baml
+C:\rit-l\морзе\DarkOrange UI\DarkOrange UI\obj\Debug\Themes\Icons.baml
+C:\rit-l\морзе\DarkOrange UI\DarkOrange UI\obj\Debug\App.baml
+C:\rit-l\морзе\DarkOrange UI\DarkOrange UI\obj\Debug\Main.g.cs
+C:\rit-l\морзе\DarkOrange UI\DarkOrange UI\obj\Debug\App.g.cs
+C:\rit-l\морзе\DarkOrange UI\DarkOrange UI\bin\Debug\NAudio.xml
+C:\rit-l\морзе\DarkOrange UI\DarkOrange UI\obj\Debug\Main.baml
+C:\rit-l\морзе\DarkOrange UI\DarkOrange UI\obj\Debug\DarkOrange_UI.Properties.Resources.resources
+C:\rit-l\морзе\DarkOrange UI\DarkOrange UI\obj\Debug\DarkOrange UI.csproj.GenerateResource.Cache
+C:\rit-l\морзе\DarkOrange UI\DarkOrange UI\bin\Debug\RIT Morse translator.exe.config
+C:\rit-l\морзе\DarkOrange UI\DarkOrange UI\bin\Debug\RIT Morse translator.exe
+C:\rit-l\морзе\DarkOrange UI\DarkOrange UI\bin\Debug\RIT Morse translator.pdb
+C:\rit-l\морзе\DarkOrange UI\DarkOrange UI\obj\Debug\RIT Morse translator_MarkupCompile.cache
+C:\rit-l\морзе\DarkOrange UI\DarkOrange UI\obj\Debug\RIT Morse translator_MarkupCompile.lref
+C:\rit-l\морзе\DarkOrange UI\DarkOrange UI\obj\Debug\RIT Morse translator.g.resources
+C:\rit-l\морзе\DarkOrange UI\DarkOrange UI\obj\Debug\RIT Morse translator.exe
+C:\rit-l\морзе\DarkOrange UI\DarkOrange UI\obj\Debug\RIT Morse translator.pdb
+C:\rit-l\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\DarkOrange UI.csprojResolveAssemblyReference.cache
+C:\rit-l\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\Themes\Brushes.baml
+C:\rit-l\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\Themes\Core.baml
+C:\rit-l\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\Themes\Icons.baml
+C:\rit-l\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\App.baml
+C:\rit-l\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\Main.g.cs
+C:\rit-l\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\App.g.cs
+C:\rit-l\comreader\DarkOrange UI\DarkOrange UI\bin\Debug\NAudio.xml
+C:\rit-l\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\Main.baml
+C:\rit-l\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\DarkOrange_UI.Properties.Resources.resources
+C:\rit-l\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\DarkOrange UI.csproj.GenerateResource.Cache
+C:\rit-l\comreader\DarkOrange UI\DarkOrange UI\bin\Debug\RIT COM Reader.exe.config
+C:\rit-l\comreader\DarkOrange UI\DarkOrange UI\bin\Debug\RIT COM Reader.exe
+C:\rit-l\comreader\DarkOrange UI\DarkOrange UI\bin\Debug\RIT COM Reader.pdb
+C:\rit-l\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\RIT COM Reader_MarkupCompile.cache
+C:\rit-l\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\RIT COM Reader_MarkupCompile.lref
+C:\rit-l\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\RIT COM Reader.g.resources
+C:\rit-l\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\RIT COM Reader.exe
+C:\rit-l\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\RIT COM Reader.pdb
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\DarkOrange UI.csprojResolveAssemblyReference.cache
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\Themes\Brushes.baml
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\Themes\Core.baml
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\Themes\Icons.baml
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\App.baml
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\Main.g.cs
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\App.g.cs
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\bin\Debug\NAudio.xml
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\Main.baml
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\DarkOrange_UI.Properties.Resources.resources
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\DarkOrange UI.csproj.GenerateResource.Cache
+F:\comreader\DarkOrange UI\DarkOrange UI\bin\Debug\RIT COM Reader.exe.config
+F:\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\RIT COM Reader.exe
+F:\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\RIT COM Reader.pdb
+F:\comreader\DarkOrange UI\DarkOrange UI\bin\Debug\RIT COM Reader.exe
+F:\comreader\DarkOrange UI\DarkOrange UI\bin\Debug\RIT COM Reader.pdb
+F:\comreader\DarkOrange UI\DarkOrange UI\bin\Debug\NAudio.xml
+F:\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\DarkOrange UI.csprojResolveAssemblyReference.cache
+F:\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\Themes\Brushes.baml
+F:\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\Themes\Core.baml
+F:\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\Themes\Icons.baml
+F:\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\App.baml
+F:\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\Main.g.cs
+F:\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\App.g.cs
+F:\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\RIT COM Reader_MarkupCompile.cache
+F:\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\RIT COM Reader_MarkupCompile.lref
+F:\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\Main.baml
+F:\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\RIT COM Reader.g.resources
+F:\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\DarkOrange_UI.Properties.Resources.resources
+F:\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\DarkOrange UI.csproj.GenerateResource.Cache
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\bin\Debug\RIT Controller.exe.config
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\bin\Debug\RIT Controller.exe
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\bin\Debug\RIT Controller.pdb
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\RIT Controller_MarkupCompile.cache
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\RIT Controller_MarkupCompile.lref
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\RIT Controller.g.resources
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\RIT Controller.exe
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\obj\Debug\RIT Controller.pdb

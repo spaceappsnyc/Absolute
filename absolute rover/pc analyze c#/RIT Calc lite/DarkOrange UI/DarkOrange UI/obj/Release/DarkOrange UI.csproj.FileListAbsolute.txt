@@ -1,0 +1,141 @@
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\bin\Release\RIT Controller.exe.config
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\obj\Release\DarkOrange UI.csprojResolveAssemblyReference.cache
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\obj\Release\Themes\Brushes.baml
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\obj\Release\Themes\Core.baml
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\obj\Release\Themes\Icons.baml
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\obj\Release\App.baml
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\obj\Release\Main.g.cs
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\obj\Release\App.g.cs
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\obj\Release\RIT Controller_MarkupCompile.cache
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\obj\Release\RIT Controller_MarkupCompile.lref
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\bin\Release\RIT Controller.exe
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\bin\Release\RIT Controller.pdb
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\bin\Release\NAudio.xml
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\obj\Release\Main.baml
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\obj\Release\RIT Controller.g.resources
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\obj\Release\DarkOrange_UI.Properties.Resources.resources
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\obj\Release\DarkOrange UI.csproj.GenerateResource.Cache
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\obj\Release\RIT Controller.exe
+C:\Users\Was\Desktop\comreader\DarkOrange UI\DarkOrange UI\obj\Release\RIT Controller.pdb
+F:\RIT Controller\DarkOrange UI\DarkOrange UI\bin\Release\RIT Controller.exe.config
+F:\RIT Controller\DarkOrange UI\DarkOrange UI\obj\Release\RIT Controller.exe
+F:\RIT Controller\DarkOrange UI\DarkOrange UI\obj\Release\RIT Controller.pdb
+F:\RIT Controller\DarkOrange UI\DarkOrange UI\bin\Release\RIT Controller.exe
+F:\RIT Controller\DarkOrange UI\DarkOrange UI\bin\Release\RIT Controller.pdb
+F:\RIT Controller\DarkOrange UI\DarkOrange UI\bin\Release\NAudio.xml
+F:\RIT Controller\DarkOrange UI\DarkOrange UI\obj\Release\DarkOrange UI.csprojResolveAssemblyReference.cache
+F:\RIT Controller\DarkOrange UI\DarkOrange UI\obj\Release\Themes\Brushes.baml
+F:\RIT Controller\DarkOrange UI\DarkOrange UI\obj\Release\Themes\Core.baml
+F:\RIT Controller\DarkOrange UI\DarkOrange UI\obj\Release\Themes\Icons.baml
+F:\RIT Controller\DarkOrange UI\DarkOrange UI\obj\Release\App.baml
+F:\RIT Controller\DarkOrange UI\DarkOrange UI\obj\Release\Main.g.cs
+F:\RIT Controller\DarkOrange UI\DarkOrange UI\obj\Release\App.g.cs
+F:\RIT Controller\DarkOrange UI\DarkOrange UI\obj\Release\RIT Controller_MarkupCompile.cache
+F:\RIT Controller\DarkOrange UI\DarkOrange UI\obj\Release\RIT Controller_MarkupCompile.lref
+F:\RIT Controller\DarkOrange UI\DarkOrange UI\obj\Release\Main.baml
+F:\RIT Controller\DarkOrange UI\DarkOrange UI\obj\Release\RIT Controller.g.resources
+F:\RIT Controller\DarkOrange UI\DarkOrange UI\obj\Release\DarkOrange_UI.Properties.Resources.resources
+F:\RIT Controller\DarkOrange UI\DarkOrange UI\obj\Release\DarkOrange UI.csproj.GenerateResource.Cache
+C:\Users\Was\Desktop\RIT Controller\DarkOrange UI\DarkOrange UI\bin\Release\RIT Controller.exe.config
+C:\Users\Was\Desktop\RIT Controller\DarkOrange UI\DarkOrange UI\obj\Release\RIT Controller.exe
+C:\Users\Was\Desktop\RIT Controller\DarkOrange UI\DarkOrange UI\obj\Release\RIT Controller.pdb
+C:\Users\Was\Desktop\RIT Controller\DarkOrange UI\DarkOrange UI\bin\Release\RIT Controller.exe
+C:\Users\Was\Desktop\RIT Controller\DarkOrange UI\DarkOrange UI\bin\Release\RIT Controller.pdb
+C:\Users\Was\Desktop\RIT Controller\DarkOrange UI\DarkOrange UI\bin\Release\NAudio.xml
+C:\Users\Was\Desktop\RIT Controller\DarkOrange UI\DarkOrange UI\obj\Release\DarkOrange UI.csprojResolveAssemblyReference.cache
+C:\Users\Was\Desktop\RIT Controller\DarkOrange UI\DarkOrange UI\obj\Release\Themes\Brushes.baml
+C:\Users\Was\Desktop\RIT Controller\DarkOrange UI\DarkOrange UI\obj\Release\Themes\Core.baml
+C:\Users\Was\Desktop\RIT Controller\DarkOrange UI\DarkOrange UI\obj\Release\Themes\Icons.baml
+C:\Users\Was\Desktop\RIT Controller\DarkOrange UI\DarkOrange UI\obj\Release\App.baml
+C:\Users\Was\Desktop\RIT Controller\DarkOrange UI\DarkOrange UI\obj\Release\Main.g.cs
+C:\Users\Was\Desktop\RIT Controller\DarkOrange UI\DarkOrange UI\obj\Release\App.g.cs
+C:\Users\Was\Desktop\RIT Controller\DarkOrange UI\DarkOrange UI\obj\Release\RIT Controller_MarkupCompile.cache
+C:\Users\Was\Desktop\RIT Controller\DarkOrange UI\DarkOrange UI\obj\Release\RIT Controller_MarkupCompile.lref
+C:\Users\Was\Desktop\RIT Controller\DarkOrange UI\DarkOrange UI\obj\Release\Main.baml
+C:\Users\Was\Desktop\RIT Controller\DarkOrange UI\DarkOrange UI\obj\Release\RIT Controller.g.resources
+C:\Users\Was\Desktop\RIT Controller\DarkOrange UI\DarkOrange UI\obj\Release\DarkOrange_UI.Properties.Resources.resources
+C:\Users\Was\Desktop\RIT Controller\DarkOrange UI\DarkOrange UI\obj\Release\DarkOrange UI.csproj.GenerateResource.Cache
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\obj\Release\Themes\Brushes.baml
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\obj\Release\Themes\Core.baml
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\obj\Release\Themes\Icons.baml
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\obj\Release\App.baml
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\obj\Release\Main.g.cs
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\obj\Release\App.g.cs
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\obj\Release\Main.baml
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\obj\Release\DarkOrange_UI.Properties.Resources.resources
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\obj\Release\DarkOrange UI.csproj.GenerateResource.Cache
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\obj\Release\info.g.cs
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\obj\Release\info.baml
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\obj\Release\about.g.cs
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\obj\Release\about.baml
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\obj\Release\err.g.cs
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\obj\Release\err.baml
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\obj\Release\err2.g.cs
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\obj\Release\err2.baml
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\obj\Release\err3.g.cs
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\obj\Release\err3.baml
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\bin\Release\mysql.data.dll
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\bin\Release\mysql.web.dll
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\obj\Release\DarkOrange UI.csprojResolveAssemblyReference.cache
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\bin\Release\EntityFramework.dll
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\bin\Release\Mono.Security.dll
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\bin\Release\Npgsql.dll
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\bin\Release\System.Data.SQLite.dll
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\bin\Release\EntityFramework.xml
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\bin\Release\System.Data.SQLite.xml
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\obj\Release\err4.g.cs
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\obj\Release\err4.baml
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\obj\Release\err5.g.cs
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\obj\Release\err5.baml
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\bin\Release\RIT calculating system.exe.config
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\bin\Release\RIT calculating system.exe
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\bin\Release\RIT calculating system.pdb
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\obj\Release\RIT calculating system_MarkupCompile.cache
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\obj\Release\RIT calculating system_MarkupCompile.lref
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\obj\Release\RIT calculating system.g.resources
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\obj\Release\RIT calculating system.exe
+C:\Users\Was\Desktop\calc\RIT Calc\DarkOrange UI\DarkOrange UI\obj\Release\RIT calculating system.pdb
+C:\Users\Was\Desktop\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\obj\Release\DarkOrange UI.csprojResolveAssemblyReference.cache
+C:\Users\Was\Desktop\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\obj\Release\Themes\Brushes.baml
+C:\Users\Was\Desktop\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\obj\Release\Themes\Core.baml
+C:\Users\Was\Desktop\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\obj\Release\Themes\Icons.baml
+C:\Users\Was\Desktop\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\obj\Release\App.baml
+C:\Users\Was\Desktop\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\obj\Release\err2.g.cs
+C:\Users\Was\Desktop\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\obj\Release\Main.g.cs
+C:\Users\Was\Desktop\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\obj\Release\App.g.cs
+C:\Users\Was\Desktop\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\obj\Release\err2.baml
+C:\Users\Was\Desktop\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\obj\Release\Main.baml
+C:\Users\Was\Desktop\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\obj\Release\DarkOrange_UI.Properties.Resources.resources
+C:\Users\Was\Desktop\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\obj\Release\DarkOrange UI.csproj.GenerateResource.Cache
+C:\Users\Was\Desktop\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\bin\Release\RIT Calculating Sys. Demo.exe.config
+C:\Users\Was\Desktop\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\bin\Release\RIT Calculating Sys. Demo.exe
+C:\Users\Was\Desktop\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\bin\Release\RIT Calculating Sys. Demo.pdb
+C:\Users\Was\Desktop\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\obj\Release\RIT Calculating Sys. Demo_MarkupCompile.cache
+C:\Users\Was\Desktop\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\obj\Release\RIT Calculating Sys. Demo_MarkupCompile.lref
+C:\Users\Was\Desktop\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\obj\Release\RIT Calculating Sys. Demo.g.resources
+C:\Users\Was\Desktop\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\obj\Release\RIT Calculating Sys. Demo.exe
+C:\Users\Was\Desktop\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\obj\Release\RIT Calculating Sys. Demo.pdb
+C:\Users\Was\Desktop\lf\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\bin\Release\RIT Calculating Sys. Demo.exe.config
+C:\Users\Was\Desktop\lf\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\obj\Release\RIT Calculating Sys. Demo.exe
+C:\Users\Was\Desktop\lf\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\obj\Release\RIT Calculating Sys. Demo.pdb
+C:\Users\Was\Desktop\lf\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\bin\Release\RIT Calculating Sys. Demo.exe
+C:\Users\Was\Desktop\lf\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\bin\Release\RIT Calculating Sys. Demo.pdb
+C:\Users\Was\Desktop\lf\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\obj\Release\DarkOrange UI.csprojResolveAssemblyReference.cache
+C:\Users\Was\Desktop\lf\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\obj\Release\Themes\Brushes.baml
+C:\Users\Was\Desktop\lf\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\obj\Release\Themes\Core.baml
+C:\Users\Was\Desktop\lf\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\obj\Release\Themes\Icons.baml
+C:\Users\Was\Desktop\lf\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\obj\Release\App.baml
+C:\Users\Was\Desktop\lf\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\obj\Release\err2.g.cs
+C:\Users\Was\Desktop\lf\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\obj\Release\Main.g.cs
+C:\Users\Was\Desktop\lf\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\obj\Release\App.g.cs
+C:\Users\Was\Desktop\lf\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\obj\Release\RIT Calculating Sys. Demo_MarkupCompile.cache
+C:\Users\Was\Desktop\lf\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\obj\Release\RIT Calculating Sys. Demo_MarkupCompile.lref
+C:\Users\Was\Desktop\lf\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\obj\Release\err2.baml
+C:\Users\Was\Desktop\lf\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\obj\Release\Main.baml
+C:\Users\Was\Desktop\lf\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\obj\Release\RIT Calculating Sys. Demo.g.resources
+C:\Users\Was\Desktop\lf\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\obj\Release\DarkOrange_UI.Properties.Resources.resources
+C:\Users\Was\Desktop\lf\calc lite\RIT Calc lite\DarkOrange UI\DarkOrange UI\obj\Release\DarkOrange UI.csproj.GenerateResource.Cache

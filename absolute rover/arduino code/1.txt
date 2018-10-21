@@ -1,0 +1,167 @@
+//******************************************
+// порты подключения моторов
+int MotorLeftActiv = 4;//Вперед или назад левый двигатель
+int MotorLeftSpeed = 5;//Скорость левого двигателя
+int MotorRightActic = 7;//Вперед или назад правый двигатель
+int MotorRightSpeed = 6;//Скорость правого двигателя
+
+int Skorost = 250;//Скорость
+
+int dalnost = 0;//Дальность спереди
+int dalnostSleva = 0;//Дальность слева
+int dalnostSprava = 0;//Дальность справа
+
+int echoPin = 12; //Порт echo
+int trigPin = 13;//Порт trig
+
+void Vpered(int Speed)//Двигаться вперед
+{
+  digitalWrite(MotorLeftActiv,HIGH);
+  analogWrite(MotorLeftSpeed,Speed);
+  digitalWrite(MotorRightActic,HIGH);
+  analogWrite(MotorRightSpeed,Speed);
+}
+
+void Nazad(int Speed)//Двигаться назад
+{
+  digitalWrite(MotorLeftActiv,LOW);
+  analogWrite(MotorLeftSpeed,Speed);
+  digitalWrite(MotorRightActic,LOW);
+  analogWrite(MotorRightSpeed,Speed);
+}
+
+void Stop()//Остановиться
+{
+  digitalWrite(MotorLeftActiv,LOW);
+  analogWrite(MotorLeftSpeed,0);
+  digitalWrite(MotorRightActic,LOW);
+  analogWrite(MotorRightSpeed,0);
+}
+
+void VlevoVperet(int Speed)//Двигаться вперед влево
+{
+  digitalWrite(MotorLeftActiv,HIGH);
+  analogWrite(MotorLeftSpeed,0);
+  digitalWrite(MotorRightActic,HIGH);
+  analogWrite(MotorRightSpeed,Speed);
+}
+
+void VpravoVperet(int Speed)//Двигаться вперед вправо
+{
+  digitalWrite(MotorLeftActiv,HIGH);
+  analogWrite(MotorLeftSpeed,Speed);
+  digitalWrite(MotorRightActic,HIGH);
+  analogWrite(MotorRightSpeed,0);
+}
+
+void VlevoNazad(int Speed)//Двигаться назад влево
+{
+  digitalWrite(MotorLeftActiv,LOW);
+  analogWrite(MotorLeftSpeed,Speed);
+  digitalWrite(MotorRightActic,HIGH);
+  analogWrite(MotorRightSpeed,0);
+}
+
+void VpravoNazad(int Speed)//Двигаться назад вправо
+{
+  digitalWrite(MotorLeftActiv,HIGH);
+  analogWrite(MotorLeftSpeed,0);
+  digitalWrite(MotorRightActic,LOW);
+  analogWrite(MotorRightSpeed,Speed);
+}
+
+void NamesteVlevo(int Speed)//Вращаться на месте влево
+{
+  digitalWrite(MotorLeftActiv,LOW);
+  analogWrite(MotorLeftSpeed,Speed);
+  digitalWrite(MotorRightActic,HIGH);
+  analogWrite(MotorRightSpeed,Speed);
+}
+
+void NamesteVpravo(int Speed)//Вращаться на месте вправо
+{
+  digitalWrite(MotorLeftActiv,HIGH);
+  analogWrite(MotorLeftSpeed,Speed);
+  digitalWrite(MotorRightActic,LOW);
+  analogWrite(MotorRightSpeed,Speed);
+}
+
+void setup()
+{  
+  //Настойки моторов
+  pinMode(MotorLeftActiv, OUTPUT);
+  pinMode(MotorLeftSpeed, OUTPUT);
+  pinMode(MotorRightSpeed, OUTPUT);
+  pinMode(MotorRightActic, OUTPUT);
+  
+  
+  //Настойки Дальномера
+  pinMode(trigPin, OUTPUT); 
+  pinMode(echoPin, INPUT);
+}
+
+void loop() { 
+  //Замер дистанции перед собой
+  digitalWrite(trigPin, LOW); 
+  delayMicroseconds(2); 
+  digitalWrite(trigPin, HIGH); 
+  delayMicroseconds(10); 
+  digitalWrite(trigPin, LOW); 
+  dalnost = pulseIn(echoPin, HIGH); 
+  dalnost = dalnost / 58;
+  if(dalnost >= 10)
+  {
+     Vpered(Skorost); //Двигаться вперед
+  }
+  else//Иначе
+  {
+      Stop();
+      VlevoVperet(Skorost);//Двигаться вперед влево
+      delay(1000);
+      Stop();
+      //Замер дистанции слева
+      digitalWrite(trigPin, LOW); 
+      delayMicroseconds(2); 
+      digitalWrite(trigPin, HIGH); 
+      delayMicroseconds(10); 
+      digitalWrite(trigPin, LOW); 
+      dalnostSleva = pulseIn(echoPin, HIGH); 
+      dalnostSleva = dalnostSleva / 58;
+      VpravoNazad(Skorost);//Двигаться назад вправо
+      delay(1000);
+      Stop();
+      VpravoVperet(Skorost);//Двигаться вперед вправо
+      delay(1000);
+      Stop();
+      //Замер дистанции справа
+      digitalWrite(trigPin, LOW); 
+      delayMicroseconds(2); 
+      digitalWrite(trigPin, HIGH); 
+      delayMicroseconds(10); 
+      digitalWrite(trigPin, LOW); 
+      dalnostSprava = pulseIn(echoPin, HIGH); 
+      dalnostSprava = dalnostSprava / 58;
+      if(dalnostSprava >= dalnostSleva && dalnostSprava >= 10)//Проверка если дистанция справа больше 30 сантиметров и больше дистанции слева ехать вправо
+      {
+          Vpered(Skorost); //Двигаться вперед
+      }
+      else if (dalnostSleva >= dalnostSprava && dalnostSleva >= 10)//Проверка если дистанция слева больше 30 сантиметров и больше дистанции справа ехать влево
+      {
+          VlevoNazad(Skorost);//Двигаться назад влево
+          delay(1000);
+          Stop();
+          VlevoVperet(Skorost);//Двигаться вперед влево
+          delay(1000);
+          Stop();
+          Vpered(Skorost); //Двигаться вперед
+      }
+      else//Иначе ехать назад
+      {
+          VpravoVperet(Skorost);//Двигаться вперед вправо
+          delay(1000);
+          Stop();
+          Vpered(Skorost); //Двигаться вперед
+      }
+  }
+  delay(100);
+}
